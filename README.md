@@ -6,11 +6,11 @@ Worked in Pernod Ricard, Beluga Group and BinnoPharm Group
 
 I’m currently working on BinnoPharm Group
 
-Databases:
+**Databases:**
 
 PostgreSQL, MySQL
 
-Data Analytics:
+**Data Analytics:**
 
 Python, Pandas, Numpy, Plotly,  Matplotlib, SciPy, Scikit-learn 
 
