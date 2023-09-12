@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Kirill Popov 
+### Hi there, I'm Kirill Popov 👋
 
 Worked in Pernod Ricard, Beluga Group and BinnoPharm Group
 
