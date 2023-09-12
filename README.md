@@ -1,9 +1,21 @@
 ### Hi there 👋
 
-<!--
-**enkirov/enkirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kirill Popov 
 
 Worked in Pernod Ricard, Beluga Group and BinnoPharm Group
+
+I’m currently working on BinnoPharm Group
+
+Databases:
+
+PostgreSQL, MySQL
+
+Data Analytics:
+
+Python, Pandas, Numpy, Plotly,  Matplotlib, SciPy, Scikit-learn 
+
+<!--
+**enkirov/enkirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
