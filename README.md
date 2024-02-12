@@ -1,8 +1,8 @@
 ### Hi there, I'm Kirill Popov 👋
 
-Worked in Pernod Ricard and BinnoPharm Group
+Worked in Pernod Ricard and BinnoPharm Group as an Analyst
 
-I’m currently working on BinnoPharm Group
+I’m currently working in Ferrero, Planning Analyst
 
 **Databases:**
 
